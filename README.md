@@ -6,7 +6,7 @@ This project will support two connected projects, one researching how IATI XML d
 
 ## Contribute
 
-* [sign-up]() to join the community's workspace on Slack and follow this project's Slack channel
+* [sign-up](https://join.slack.com/t/humanitarian-ai/shared_invite/zt-9mj5yx3m-8jFW7JtIcdXnwknjCBD2Nw) to join the community's workspace on Slack and follow this project's Slack channel
 * "Watch" this repository on GitHub
 * Fork this repository, commit and push some changes ([tutorial](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/) for beginners) and/or add some issues
 * Or contribute via adding content to this project's Google Doc pinned on its Slack channel
