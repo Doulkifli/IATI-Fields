@@ -13,9 +13,9 @@ This project will support two connected projects, one researching how IATI XML d
 
 ### Tasks
 
-* Help maintain an up-to-date list of IATI XML elements and attributes [IATI_Fields.csv]()
+* Help maintain an up-to-date list of IATI XML elements and attributes [IATI_Fields.csv](https://github.com/Humanitarian-AI/IATI-Fields/blob/master/IATI_Fields.csv)
 * Help convert IATI fields into JSON and Neo4j compatible versions and add these to the IATI_Fields.csv file
-* Help research potential new IATI fields and add these to [IATI_Newfields.csv]() 
+* Help research potential new IATI fields and add these to [IATI_Newfields.csv](https://github.com/Humanitarian-AI/IATI-Fields/blob/master/IATI_Newfields.csv) 
 * Research IATI codelist properties (attributes) and values to identify potential values that might cause database errors
 
 ## Resources
